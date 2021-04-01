@@ -6,8 +6,6 @@ import Grids from '../grid'
 
 const Home = () => (
 	<div class={style.home}>
-		<h1>Home</h1>
-		<p>This is the Home component.</p>
     <Grids />
 	</div>
 );
